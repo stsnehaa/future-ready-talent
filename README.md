@@ -12,5 +12,5 @@ how cakes have been looking.</p>
 
 <img width="946" alt="p2" src="https://user-images.githubusercontent.com/109945255/182655537-d56357f7-1535-4d9c-8b69-4d58f0104a90.png">
 
-<p> url to my website is https://kind-flower-051a12610.1.azurestaticapps.ne </p>
+<p> url to my website is https://kind-flower-051a12610.1.azurestaticapps.net </p>
 
